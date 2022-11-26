@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.text-color {
+    color: white;
+}
+
+
+.navbar-image {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+
+.card-container1 {
+    background-image: url("https://thumbs.dreamstime.com/b/group-hospital-doctors-over-health-care-clinic-background-89857953.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.heading1 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    font-style: bold;
+}
+
+.para {
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+}
+
+.button1 {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    background-color: #99ccff;
+    color: white;
+    height: 40px;
+    width: 100px;
+   
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.card-small-container {
+    
+    height: 180px;
+    width: 100vw;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+}
+.but{
+	
+	margin-left:50px
+}
+.linear-gradient-background {
+    height: 100vh;
+    background-size: cover;
+    background-image: linear-gradient(#ccffee, #d9b3ff);
+}
+
+
+.appointment-container{
+	margin-left:150px;
+	padding-left:200px;
+
+}
+
+
+.heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.image-container {
+    background-image: url("https://img.freepik.com/free-photo/blur-hospital_1203-7972.jpg?w=740&t=st=1660295656~exp=1660296256~hmac=a6662963219bd935108efe999d5c05db252b5f806407acadf620814523b6167c");
+    height: 350px;
+    width: 400px;
+    background-size: cover;
+    border-radius: 9px;
+    margin-left: 450px;
+
+}
+
+.paragraph-login {
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.button {
+    color: #ff9f00;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 0px;
+    height: 45px;
+    width: 100px;
+}
+
+.custom-button {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.login-button {
+    border-radius: 9px;
+    height: 40px;
+    width: 100px;
+    border-width: 0px;
+    margin-left:150px
+}
+
+
+
+.paragraph-login1 {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.mini-para {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button {
+    color: #ff9f00;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 0px;
+    height: 45px;
+    width: 100px;
+
+}
+
+.styling {
+    color: #183b56;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.third-container {
+    background-size: cover;
+}
+
+.bg-container1 {
+    background-color: white;
+    background-size: cover;
+}
+
+.heading3 {
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: "Bree Serif";
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+.card-heading {
+    color: #183b58;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.image {
+
+    height: 110px;
+    width: 130px;
+
+
+}
+
+.small-card-heading {
+    color: #1f2933;
+    font-size: 17px;
+
+
+}
+
+.hyperlink-item {
+    color: #ff9f00;
+    font-size: 16px;
+}
+
+.image-set {
+    height: 280px;
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+
+
+
+.ecommerce-footer-section {
+    background-color: #3C565B;
+}
+
+.logo-img {
+    width: 130px;
+    height: 65px;
+}
+
+.ecommerce-footer-section-icon-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #3C565B;
+    margin-right: 8px;
+    margin-bottom: 8px;
+
+}
+
+.icon {
+    color: white;
+    font-size: 18px;
+}
+
+.ecommerce-footer-section-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.ecommerce-footer-section-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.ecommerce-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.list-item {
+    color: white;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.hr-line {
+    background-color: white;
+    border-style: solid;
+}
+
+.ecommerce-footer-section-copyright {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.form-container {
+    background-color: #d7bde2;
+    padding: 30px;
+
+}
+.nav-link{
+	font-size:20px;
+	margin-left:60px;
+	font-weight:300;
+	font-family:bold;
+
+
+}
+
+
+.fav-place-bg-container {
+   background-image: 
+   url("https://t3.ftcdn.net/jpg/04/67/37/12/360_F_467371208_2cBvWthKecbY7PPW7rxmz99pKSkJPDPm.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.fav-place-heading {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 28px;
+    padding: 15px;
+}
+
+.fav-place-text-container {
+    background-color: white;
+    padding: 15px;
+    margin: 24px;
+    border-radius: 15px;
+    width: 300px;
+}
+
+.fav-place-text-heading {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fav-place-text-paragraph {
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.fav-place-card-image {
+    height: 80px;
+    width: 80px;
+    text-align: left;
+    border-radius: 50px;
+}
